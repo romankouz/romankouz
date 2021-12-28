@@ -14,6 +14,7 @@
 # Languages
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 # Dev Tools
 ![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
