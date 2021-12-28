@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome to my Github Page! 👋
+
+[ ] Available for Summer Internship? 
+[ ] Available for Fall Internship?
+[ ] Available for Hire?
+
+<!--
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+-->
 
 <!--
 **roromaniac/roromaniac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
