@@ -1,4 +1,4 @@
-### Welcome to my Github Page! 👋
+### Welcome to my Github Page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [ ] Available for Summer Internship? 
 [ ] Available for Fall Internship?
