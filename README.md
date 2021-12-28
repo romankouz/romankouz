@@ -1,10 +1,10 @@
 ### Welcome to my Github Page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[:white_check_mark:] Available for Summer Internship? 
+:white_check_mark: Available for Summer Internship? 
 
-[:white_check_mark:] Available for Fall Internship?
+:white_check_mark: Available for Fall Internship?
 
-[:x:] Available for Job Hire?
+:x: Available for Job Hire?
 
 <!--
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
