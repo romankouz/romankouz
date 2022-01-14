@@ -17,11 +17,11 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ##### Machine Learning
-![Tensorflow]https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white
-![Pytorch]https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white
-![Numpy]https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white
-![Pandas]https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white
-![Scipy]https://img.shields.io/badge/SciPy-654FF0?style=flat&logo=SciPy&logoColor=white
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
+![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=flat&logo=SciPy&logoColor=white)
 
 ##### Database Tools
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
