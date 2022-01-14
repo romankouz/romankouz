@@ -48,7 +48,7 @@
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white) 
 
 ##### Analytics
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 
 <!--
 **roromaniac/roromaniac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
