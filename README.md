@@ -1,5 +1,7 @@
 ### Welcome to my Github Page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+This is just a quick overview of my skillset. A more detailed 
+
 :white_check_mark: Available for Summer Internship? 
 
 :white_check_mark: Available for Fall Internship?
