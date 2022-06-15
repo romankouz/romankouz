@@ -1,6 +1,6 @@
 ### Welcome to my Github Page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-This is just a quick overview of my skillset. A more detailed 
+This is just a quick overview of my skillset. A more detailed list of my skills and experience can be found [here](https://roromaniac.github.io).
 
 :white_check_mark: Available for Summer Internship? 
 
