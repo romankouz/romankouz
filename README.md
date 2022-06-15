@@ -33,7 +33,7 @@
 ![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white)
 ![VScode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white)
-# ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)
+<!-- ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white) -->
 ![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=green)
 
 ##### Web Dev
