@@ -6,7 +6,7 @@ This is just a quick overview of my skillset. A more detailed list of my skills 
 
 :white_check_mark: Available for Fall Internship?
 
-:x: Available for Job Hire?
+:white_check_mark: Available for Job Hire?
 
 ### Contact Info
 
