@@ -2,11 +2,11 @@
 
 This is just a quick overview of my skillset. A more detailed list of my skills and experience can be found [here](https://roromaniac.github.io).
 
-:white_check_mark: Available for Summer Internship? 
+:x: Available for Summer Internship? 
 
-:white_check_mark: Available for Fall Internship?
+:x: Available for Fall Internship?
 
-:white_check_mark: Available for Job Hire?
+:x: Available for Job Hire?
 
 ### Contact Info
 
